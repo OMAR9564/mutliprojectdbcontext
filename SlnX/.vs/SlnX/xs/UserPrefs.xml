@@ -1,0 +1,63 @@
+﻿<Properties StartupConfiguration="{EDA50C8C-65B9-45CE-B2EF-2B66937806D3}|http">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="webapp2/wwwroot/css/table.css">
+    <Files>
+      <File FileName="webapi/Program.cs" Line="14" Column="88" />
+      <File FileName="webapi/Controllers/ProductsController.cs" />
+      <File FileName="webapi/appsettings.json" />
+      <File FileName="webapp/Controllers/ProductsController.cs" />
+      <File FileName="Authorization/Interfaces/IProductRepository.cs" />
+      <File FileName="Authorization/Data/ApplicationDbContext.cs" Line="39" Column="55" />
+      <File FileName="Authorization/Data/ApplicationDbContextFactory.cs" Line="10" Column="67" />
+      <File FileName="Authorization/Models/Course.cs" Line="21" Column="6" />
+      <File FileName="Authorization/Models/Room.cs" Line="16" Column="6" />
+      <File FileName="Authorization/Models/StudentCourse.cs" Line="21" Column="6" />
+      <File FileName="Authorization/Models/Student.cs" Line="19" Column="6" />
+      <File FileName="Authorization/Models/Teacher.cs" Line="17" Column="6" />
+      <File FileName="webapp2/Controllers/CourseController.cs" Line="55" Column="6" />
+      <File FileName="Authorization/Repositories/CourseRepository.cs" Line="14" Column="53" />
+      <File FileName="Authorization/Interfaces/ICourseRepository.cs" Line="12" Column="36" />
+      <File FileName="Authorization/Interfaces/IRoomRepository.cs" Line="12" Column="36" />
+      <File FileName="Authorization/Repositories/ProductRepository.cs" Line="12" Column="46" />
+      <File FileName="Authorization/Interfaces/IStudentRepository.cs" Line="14" Column="6" />
+      <File FileName="Authorization/Repositories/StudentRepository.cs" Line="11" Column="46" />
+      <File FileName="Authorization/Interfaces/ITeacherRepository.cs" Line="12" Column="36" />
+      <File FileName="Authorization/Repositories/TeacherRepository.cs" Line="13" Column="54" />
+      <File FileName="webapp2/Views/Course/Index.cshtml" Line="7" Column="1" />
+      <File FileName="webapp2/Views/Course/Create.cshtml" Line="1" Column="1" />
+      <File FileName="webapp2/Views/Room/Index.cshtml" Line="1" Column="1" />
+      <File FileName="webapp2/Views/Room/Create.cshtml" Line="1" Column="1" />
+      <File FileName="webapp2/Views/Student/Index.cshtml" Line="104" Column="1" />
+      <File FileName="webapp2/Views/Student/Ceate.cshtml" Line="46" Column="1" />
+      <File FileName="webapp2/Views/Student/Registration.cshtml" Line="1" Column="1" />
+      <File FileName="webapp2/Views/Teacher/Index.cshtml" Line="6" Column="1" />
+      <File FileName="webapp2/Views/Teacher/Create.cshtml" Line="46" Column="1" />
+      <File FileName="webapp2/Views/_ViewImports.cshtml" Line="2" Column="21" />
+      <File FileName="webapp2/Views/Shared/_Layout.cshtml" Line="69" Column="1" />
+      <File FileName="webapp2/Views/Shared/_Layout.cshtml.css" Line="1" Column="1" />
+      <File FileName="webapp2/wwwroot/css/table.css" Line="37" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SlnX" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.webapp PreferredExecutionTarget="/Applications/Firefox Developer Edition.app" />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{EDA50C8C-65B9-45CE-B2EF-2B66937806D3}" ItemName="webapi" ConfigurationId="http" />
+        <StartupItem ItemId="{F7A125B7-8204-456E-AFDD-4A648410068B}" ItemName="webapp" ConfigurationId="http" />
+        <StartupItem ItemId="{7568F915-A8EB-4D2E-A9BD-6097AB792A50}" ItemName="webapp2" ConfigurationId="http" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.webapi PreferredExecutionTarget="/Applications/Firefox Developer Edition.app" />
+</Properties>

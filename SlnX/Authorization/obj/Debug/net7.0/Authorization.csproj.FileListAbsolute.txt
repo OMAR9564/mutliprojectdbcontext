@@ -1,0 +1,16 @@
+/Users/omerfaruk/VSDotnet/SlnX/Authorization/bin/Debug/net7.0/Authorization.deps.json
+/Users/omerfaruk/VSDotnet/SlnX/Authorization/bin/Debug/net7.0/Authorization.runtimeconfig.json
+/Users/omerfaruk/VSDotnet/SlnX/Authorization/bin/Debug/net7.0/Authorization.dll
+/Users/omerfaruk/VSDotnet/SlnX/Authorization/bin/Debug/net7.0/Authorization.pdb
+/Users/omerfaruk/VSDotnet/SlnX/Authorization/obj/Debug/net7.0/Authorization.csproj.AssemblyReference.cache
+/Users/omerfaruk/VSDotnet/SlnX/Authorization/obj/Debug/net7.0/Authorization.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omerfaruk/VSDotnet/SlnX/Authorization/obj/Debug/net7.0/Authorization.AssemblyInfoInputs.cache
+/Users/omerfaruk/VSDotnet/SlnX/Authorization/obj/Debug/net7.0/Authorization.AssemblyInfo.cs
+/Users/omerfaruk/VSDotnet/SlnX/Authorization/obj/Debug/net7.0/Authorization.csproj.CoreCompileInputs.cache
+/Users/omerfaruk/VSDotnet/SlnX/Authorization/obj/Debug/net7.0/Authorization.dll
+/Users/omerfaruk/VSDotnet/SlnX/Authorization/obj/Debug/net7.0/refint/Authorization.dll
+/Users/omerfaruk/VSDotnet/SlnX/Authorization/obj/Debug/net7.0/Authorization.pdb
+/Users/omerfaruk/VSDotnet/SlnX/Authorization/obj/Debug/net7.0/Authorization.genruntimeconfig.cache
+/Users/omerfaruk/VSDotnet/SlnX/Authorization/obj/Debug/net7.0/ref/Authorization.dll
+/Users/omerfaruk/VSDotnet/SlnX/Authorization/bin/Debug/net7.0/appsettings.json
+/Users/omerfaruk/VSDotnet/SlnX/Authorization/bin/Debug/net7.0/appsettings.Development.json
